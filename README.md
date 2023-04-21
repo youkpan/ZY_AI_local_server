@@ -48,52 +48,31 @@
 
 修改：settings.txt
 
-API_domain 你的API 域名
-
-Site_domain 你的网站域名
-
-Default_openid 默认openid，暂不修改
-
-Main_API_Server_ID 默认openid，暂不修改
-
-User_default_max_chat_cnt 每个用户最大免费聊天次数
-
-OpenID_default_max_chat_cnt API 接口的 最大默认聊天次数
-
-OpenID_Max_relate_data_cnt  API 接口的 最大关联聊天数据库更新数
-
-SSL_key_path ssl证书路径
-
-SSL_cert_path ssl证书路径
-
-ZY_AI_auth_key 联系我们 提供
-
-Company_name_short 公司名称
-
-Ali_voice_key： 阿里云 语音实时识别服务key
-
-Ali_voice_secret：阿里云 语音实时识别服务secret
-
-User_agreement_url：用户协议
-
-Temp_file_dir：临时文件夹
-
-Max_upload_file_text_size_trier：用户体验最大上传文件大小
-
-Max_upload_pdf_file_page_trier：用户体验最大pdf页
-
-Wechat_kf ：微信客服相关配置
-
-Azure_voice_recognize_subscription：微软 Azure 语音识别
-
-Azure_voice_recognize_region：微软 Azure 语音识别
-
-AGI_use_docker：false
-
-Google_search_key：谷歌搜索
-
-Proxy_url: 代理节点，连接到本地的代理。
-
+        * OpenAI_API_key: OpenAI chatGPT 接口
+        * Local_AI_server:本地服务接口（免费版不填）
+        * API_domain 你的API 域名
+        * Site_domain 你的网站域名
+        * Default_openid 默认openid，暂不修改
+        * Main_API_Server_ID 默认openid，暂不修改
+        * User_default_max_chat_cnt 每个用户最大免费聊天次数
+        * OpenID_default_max_chat_cnt API 接口的 最大默认聊天次数
+        * OpenID_Max_relate_data_cnt  API 接口的 最大关联聊天数据库更新数
+        * SSL_key_path ssl证书路径
+        * SSL_cert_path ssl证书路径
+        * ZY_AI_auth_key 联系我们 提供
+        * Company_name_short 公司名称
+        * Ali_voice_key： 阿里云 语音实时识别服务key
+        * Ali_voice_secret：阿里云 语音实时识别服务secret
+        * User_agreement_url：用户协议
+        * Temp_file_dir：临时文件夹
+        * Max_upload_file_text_size_trier：用户体验最大上传文件大小
+        * Max_upload_pdf_file_page_trier：用户体验最大pdf页
+        * Wechat_kf ：微信客服相关配置
+        * Azure_voice_recognize_subscription：微软 Azure 语音识别
+        * Azure_voice_recognize_region：微软 Azure 语音识别
+        * AGI_use_docker：false
+        * Google_search_key：谷歌搜索
+        * Proxy_url: 代理节点，连接到本地的代理。
 用户充值：
 
 发送 示例：chag100@userid
@@ -112,9 +91,9 @@ API账号管理等功能
 
 127.0.0.1       test.zyinfo.pro
 
-6、运行 mainapi.exe
+9、运行 mainapi.exe
 
-7、使用Chrome 浏览器打开
+10、使用Chrome 浏览器打开（替换成你的域名）
 
 会议记录：
 
@@ -128,5 +107,5 @@ API账号管理等功能
 
 微信youkpan
 
-深圳展映科技有限公司
+深圳展映科技有限公司 [zyinfo.pro](http://zyinfo.pro)
 
