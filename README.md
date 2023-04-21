@@ -28,9 +28,11 @@
 
 1、下载部署文件
 
-展映企业AI本地服务 免费版 v1.0.rar 链接：
+[展映企业AI本地服务 免费版 v1.0.1.rar ](http://box.hayoou.com/1682071623393/%E5%B1%95%E6%98%A0%E4%BC%81%E4%B8%9AAI%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%20%E5%85%8D%E8%B4%B9%E7%89%88%20v1.0.1.rar)
 
-[hayoou.com/ybys](http://box.hayoou.com/1682070326703/%E5%B1%95%E6%98%A0%E4%BC%81%E4%B8%9AAI%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%20%E5%85%8D%E8%B4%B9%E7%89%88%20v1.0.rar)
+
+或[百度网盘](https://pan.baidu.com/s/1m5VcnTCoNGTPrcwq8g57PQ?pwd=5566)
+提取码：5566 
 
 2、设置外网
 
@@ -75,21 +77,21 @@
         * Proxy_url: 代理节点，连接到本地的代理。
 用户充值：
 
-发送 示例：chag100@userid
+       发送 示例：chag100@userid
 
-100是充值金额，userid 是用户名
+       100是充值金额，userid 是用户名
 
-任意对话中发送即可。
+       任意对话中发送即可。
 
-格式：chag{金额}@用户名
+       格式：chag{金额}@用户名
 
 高级版新增：
 
-API账号管理等功能
+       API账号管理等功能
 
-若测试 test.zyinfo.pro ，请修改 本地 hosts 文件
+       若测试 test.zyinfo.pro ，请修改 本地 hosts 文件
 
-127.0.0.1       test.zyinfo.pro
+       127.0.0.1       test.zyinfo.pro
 
 9、运行 mainapi.exe
 
